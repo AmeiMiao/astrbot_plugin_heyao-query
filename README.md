@@ -17,6 +17,7 @@
 ## 安装方法
 
 1. 在插件市场中填入仓库链接:https://github.com/AmeiMiao/astrbot_plugin_heyao-query
+2. 重启 AstrBot
 
 ## 依赖
 
