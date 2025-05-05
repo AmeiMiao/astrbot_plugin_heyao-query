@@ -182,7 +182,7 @@ def generate_image(data: Dict[str, str]) -> Optional[Path]:
     name="heyao_query",
     desc="河妖订单查询插件",
     version="1.0.3", # 更新版本号以区分改动
-    author="Your Name"
+    author="AmeiMiao"
 )
 class HeyaoQueryStar(Star):
     def __init__(self, context: Context):
